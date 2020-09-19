@@ -6,7 +6,7 @@ print(str)
 
 print('today %d%%  %s cost ' % (6, 'bananas'))
 
-print('today %7d  %s cost ' % (6, 'bananas'))
+print('today x %7d  %s cost ' % (6, 'bananas'))
 
 
 for i in range(3):
