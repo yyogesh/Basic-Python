@@ -38,7 +38,7 @@ print('python@language'.partition('$'))
 
 print('python is really good language'.title())
 
-print('python is really good language'.capitalize())
+print('python is really good language capitalize'.capitalize())
 
 print('python'.isalpha())
 
