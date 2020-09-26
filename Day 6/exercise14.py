@@ -5,6 +5,7 @@ str = 'ABCDCDC'
 strSub = 'CDC'
 count = 0
 for i in range(len(str)):
+    print(str[i: i + len(strSub)])
     if str[i: i + len(strSub)] == strSub:
         count += 1
 print(count)
